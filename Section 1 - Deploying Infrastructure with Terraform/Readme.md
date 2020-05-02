@@ -1,9 +1,7 @@
-# Domain  - Deploying Infrastructure with Terraform
-
-The code mentioned in this document are used in the HashiCorp Certified Terraform Associate 2020 video course.
+# Creating/Deploying Infrastructure with Terraform Provisioning Technology
 
 
-# Video-Document Mapper
+# Reference Document
 
 | Sr No | Document Link |
 | ------ | ------ |
@@ -14,7 +12,7 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 
 
 
-   [PlDa]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%201%20-%20Deploying%20Infrastructure%20with%20Terraform/first-ec2.md>
-   [PlDb]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%201%20-%20Deploying%20Infrastructure%20with%20Terraform/do_droplet.tf>
-   [PlDc]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%201%20-%20Deploying%20Infrastructure%20with%20Terraform/desired-current-state.md>
+   [PlDa]: <https://github.com/ITHelp-Stream/terraform-provisioning/blob/master/Section%201%20-%20Deploying%20Infrastructure%20with%20Terraform/first-ec2.md>
+   [PlDb]: <https://github.com/ITHelp-Stream/terraform-provisioning/blob/master/Section%201%20-%20Deploying%20Infrastructure%20with%20Terraform/do_droplet.tf>
+   [PlDc]: <https://github.com/ITHelp-Stream/terraform-provisioning/blob/master/Section%201%20-%20Deploying%20Infrastructure%20with%20Terraform/desired-current-state.md>
 

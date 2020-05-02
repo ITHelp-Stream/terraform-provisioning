@@ -13,8 +13,7 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 | 4 | [Terraform State Management][PlDd] |
 
 
-
-   [PlDa]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/tree/master/Section%205%20-%20Remote%20State%20Management/kplabs-remote-backend>
-   [PlDb]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/tree/master/Section%205%20-%20Remote%20State%20Management/terraform-multistate>
-   [PlDc]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%205%20-%20Remote%20State%20Management/tf-import.md>
-   [PlDd]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%205%20-%20Remote%20State%20Management/state-management.tf>
+   [PlDa]: <https://github.com/ITHelp-Stream/terraform-provisioning/tree/master/Section%205%20-%20Remote%20State%20Management/kplabs-remote-backend>
+   [PlDb]: <https://github.com/ITHelp-Stream/terraform-provisioning/tree/master/Section%205%20-%20Remote%20State%20Management/terraform-multistate>
+   [PlDc]: <https://github.com/ITHelp-Stream/terraform-provisioning/blob/master/Section%205%20-%20Remote%20State%20Management/tf-import.md>
+   [PlDd]: <https://github.com/ITHelp-Stream/terraform-provisioning/blob/master/Section%205%20-%20Remote%20State%20Management/state-management.tf>

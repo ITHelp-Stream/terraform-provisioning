@@ -1,9 +1,7 @@
-# Domain  - Terraform Provisioners
-
-The code mentioned in this document are used in the HashiCorp Certified Terraform Associate 2020 video course.
+# Terraform Provisioners
 
 
-# Video-Document Mapper
+# Reference Document
 
 | Sr No | Document Link |
 | ------ | ------ |
@@ -13,6 +11,6 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 
 
 
-[PlDa]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%203%20-%20Terraform%20Provisioners/remote-exec.tf>
-[PlDb]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%203%20-%20Terraform%20Provisioners/local-exec.tff>
+[PlDa]: <https://github.com/ITHelp-Stream/terraform-provisioning/blob/master/Section%203%20-%20Terraform%20Provisioners/remote-exec.tf>
+[PlDb]: <https://github.com/ITHelp-Stream/terraform-provisioning/blob/master/Section%203%20-%20Terraform%20Provisioners/local-exec.tff>
 

@@ -2,7 +2,7 @@
 
 https://registry.terraform.io/
 
-### Demo Code used in Video:
+### Demo Code:
 
 ```sh
 provider "aws" {
